@@ -1,6 +1,8 @@
 
 # Custom CPU Architecture
 
+This project is neither finished nor stable.
+
 This project holds material about a custom-built 8-bit CPU architecture with a 12-bit instruction set.
 It is built for educational purposes only and doesn't hold any real value other than its simplicity and ease of implementation.
 
@@ -35,7 +37,6 @@ To load a program, open the ```Program Counter``` sub-circuit, clear the ROM and
 Go back to the main circuit, turn on and off the reset button and enable ticking or tick manually if you want to debug.
 
 # Further work
-Building the CPU in real life.
 Creating a higher-level language for easier programming.
 
 # Bugs
